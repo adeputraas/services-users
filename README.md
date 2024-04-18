@@ -12,7 +12,7 @@
 
 ## Installation & How To Use
 ```sh
-cd joybox-backend-engineer
+cd users
 npm i
 node server.js
 ```
